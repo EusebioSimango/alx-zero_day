@@ -1,7 +1,7 @@
 My first readme
 
-`update.c`
 ```c
+/* update.c */
 #include <stdio.h>
 
 int main(void) {
